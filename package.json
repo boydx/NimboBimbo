@@ -1,0 +1,22 @@
+{
+    "name": "nimbobimbo",
+    "displayName": "NimboBimbo",
+    "description": "dark",
+    "version": "0.0.1",
+    "publisher": "boydx",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "NimboBimbo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NimboBimbo-color-theme.json"
+            }
+        ]
+    }
+}
