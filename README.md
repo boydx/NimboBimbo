@@ -3,6 +3,12 @@
 
 NimboBimbo is a derivative of the [Bimbo](https://marketplace.visualstudio.com/items?itemName=pawelgrzybek.bimbo-theme#review-details) theme. The main differences are a neutral gray background, a few muted colors, a preference for highlighting comments more, and the use of [Space Mono](https://fonts.google.com/specimen/Space+Mono) font.
 
+<!-- Example screenshots below -->
+
+## Examples
+
+![Example of this workspace](images/workspace-01.png)   
+Figure 01: Example of this workspace
 
 ## Useful tools
 
